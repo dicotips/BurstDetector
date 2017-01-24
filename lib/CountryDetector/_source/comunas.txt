@@ -1,0 +1,346 @@
+arica	-18.4783	-70.3126
+camarones	-18.4742	-70.2919
+general lagos	-17.6533	-69.6347
+putre	-18.197	-69.5597
+alto hospicio	-20.2687	-70.1049
+iquique	-20.2307	-70.1357
+camiña	-19.3116	-69.4299
+colchane	-19.7	-68.8833
+huara	-19.9972	-69.7719
+pica	-20.4895	-69.3305
+pozo almonte	-20.2567	-69.786
+antofagasta	-23.6509	-70.3975
+mejillones	-23.0985	-70.4455
+sierra gorda	-22.886	-69.3172
+taltal	-25.4065	-70.4803
+calama	-22.4544	-68.9294
+ollague	-21.2257	-68.2548
+san pedro de atacama	-22.9087	-68.1997
+maría elena	-22.345	-69.6607
+tocopilla	-22.0858	-70.193
+chañaral	-26.345	-70.6242
+diego de almagro	-26.3902	-70.0475
+caldera	-27.0667	-70.8178
+copiapó	-27.3666	-70.3322
+tierra amarilla	-27.4672	-70.2652
+alto del carmen	-28.7594	-70.4867
+freirina	-28.5121	-71.0796
+huasco	-28.4664	-71.2192
+vallenar	-28.5758	-70.7571
+canela	-31.3989	-71.4561
+illapel	-31.6308	-71.1653
+los vilos	-31.9122	-71.5112
+salamanca	-31.7825	-70.9607
+andacollo	-30.2358	-71.0828
+coquimbo	-29.8295	-70.812
+la higuera	-29.512	-71.2001
+la serena	-29.9027	-71.2519
+paihuaco	-30.0277	-70.5178
+vicuña	-30.0319	-70.7081
+combarbalá	-31.1791	-71.0051
+monte patria	-30.6979	-70.9587
+ovalle	-30.6043	-71.197
+punitaqui	-30.8261	-71.2578
+río hurtado	-30.2667	-70.6667
+isla de pascua	-27.113	-109.35
+calle larga	-32.8575	-70.6258
+los andes	-32.8338	-70.5972
+rinconada	-32.8352	-70.701
+san esteban	-32.8005	-70.5798
+limache	-33.0095	-71.2596
+olmué	-32.9981	-71.1893
+quilpué	-33.0483	-71.4409
+villa alemana	-33.0517	-71.3906
+cabildo	-32.4258	-71.0662
+la ligua	-32.4499	-71.2326
+papudo	-32.5072	-71.4485
+petorca	-32.25	-70.9333
+zapallar	-32.5538	-71.4581
+hijuelas	-32.798	-71.1437
+la calera	-32.7878	-71.204
+la cruz	-32.8258	-71.2273
+nogales	-32.7333	-71.2042
+quillota	-32.8803	-71.2497
+algarrobo	-33.3648	-71.6706
+cartagena	29.4827	-98.7215
+el quisco	-33.3986	-71.6982
+el tabo	-33.4557	-71.6669
+san antonio	-33.5923	-71.6055
+santo domingo	-33.6358	-71.6281
+catemu	-32.7788	-70.9627
+llaillay	-32.8444	-70.9428
+panquehue	-32.767	-70.8333
+putaendo	-32.6285	-70.7177
+san felipe	-32.75	-70.7208
+santa maría	-32.747	-70.6587
+casablanca	-33.319	-71.4076
+concón	-32.9239	-71.5235
+juan fernández	-33.7744	-80.7769
+puchuncaví	-32.722	-71.4117
+quintero	-32.7723	-71.5333
+valparaíso	-33.0472	-71.6127
+viña del mar	-33.0153	-71.55
+colina	-33.2045	-70.6758
+lampa	-33.2827	-70.8793
+tiltil	-33.0839	-70.928
+pirque	-33.6793	-70.5831
+puente alto	-33.6186	-70.5906
+san josé de maipo	-33.6432	-70.3452
+buin	-33.7309	-70.7423
+calera de tango	-33.6291	-70.7687
+paine	-33.8126	-70.7376
+san bernardo	-33.6006	-70.7061
+alhué	-34.0265	-71.1003
+curacaví	-33.3977	-71.1275
+maría pinto	-33.5177	-71.1239
+melipilla	-33.6862	-71.2167
+san pedro	-33.8951	-71.4564
+cerrillos	-33.5041	-70.7109
+cerro navia	-33.4217	-70.7347
+conchalí	-33.3847	-70.68
+el bosque	-33.563	-70.6752
+estación central	-33.4591	-70.699
+huechuraba	-33.3742	-70.6367
+independencia	-33.4133	-70.6663
+la cisterna	-33.5265	-70.6614
+la granja	-33.5378	-70.6207
+la florida	-33.5227	-70.5987
+la pintana	-33.5856	-70.6286
+la reina	-33.4411	-70.5341
+las condes	-33.4088	-70.5671
+lo barnechea	-33.3527	-70.5185
+lo espejo	-33.5139	-70.6931
+lo prado	-33.4443	-70.7234
+macul	-33.4851	-70.5992
+maipú	-33.5209	-70.7631
+ñuñoa	-33.4567	-70.5978
+pedro aguirre cerda	-33.4941	-70.6765
+peñalolén	-33.4719	-70.5628
+providencia	-33.4314	-70.6093
+pudahuel	-33.4421	-70.7641
+quilicura	-33.3577	-70.7293
+quinta normal	-33.4317	-70.6924
+recoleta	-33.3972	-70.6428
+renca	-33.4064	-70.728
+san miguel	-33.4924	-70.6518
+san joaquín	-33.4962	-70.6283
+san ramón	-33.5389	-70.6425
+santiago	-33.4489	-70.6693
+vitacura	-33.3905	-70.5724
+el monte	-33.6815	-70.9854
+isla de maipo	-33.7465	-70.9
+padre hurtado	-33.575	-70.815
+peñaflor	-33.606	-70.8782
+talagante	-33.6637	-70.9274
+codegua	-34.037	-70.6729
+coínco	-34.2662	-70.9593
+coltauco	-34.2878	-71.0855
+doñihue	-34.229	-70.9579
+graneros	-34.0667	-70.7326
+las cabras	-34.2932	-71.3126
+machalí	-34.1795	-70.6565
+malloa	-34.4424	-70.9464
+mostazal	-33.9498	-70.5741
+olivar	-34.2812	-71.8571
+peumo	-34.1162	-71.7295
+pichidegua	-34.3542	-71.3587
+quinta de tilcoco	-34.2812	-71.8571
+rancagua	-34.2812	-71.8571
+rengo	-34.2812	-71.8571
+requínoa	-34.2812	-71.8571
+san vicente de tagua tagua	-34.2812	-71.8571
+la estrella	-34.2052	-71.6547
+litueche	-34.1173	-71.7252
+marchihue	-34.3984	-71.6216
+navidad	-33.9594	-71.8295
+peredones	-34.652	-71.9001
+pichilemu	-34.3867	-72.0048
+chépica	-34.7255	-71.2726
+chimbarongo	-34.7092	-71.0413
+lolol	-34.7284	-71.6458
+nancagua	-34.6523	-71.1969
+palmilla	-34.5325	-71.413
+peralillo	-34.4773	-71.4873
+placilla	-34.6338	-71.1108
+pumanque	-34.6027	-71.6553
+san fernando	-34.5859	-70.9908
+santa cruz	-34.6324	-71.3592
+cauquenes	-35.9676	-72.3222
+chanco	-35.7333	-72.5333
+pelluhue	-35.8142	-72.575
+curicó	-34.978	-71.2529
+hualañé	-34.9725	-71.7993
+licantén	-34.9852	-71.985
+molina	-35.1165	-71.283
+rauco	-34.9253	-71.3156
+romeral	-34.9623	-71.132
+sagrada familia	-34.9984	-71.3446
+teno	-34.8703	-71.1664
+vichuquén	-34.8837	-71.9954
+colbún	-35.6992	-71.4147
+linares	38.0969	-3.63698
+longaví	-35.9636	-71.6831
+parral	-36.14	-71.8244
+retiro	-36.05	-71.7667
+san javier	-35.5931	-71.7325
+villa alegre	-35.6762	-71.7439
+yerbas buenas	-35.7501	-71.5837
+constitución	-35.3333	-72.4167
+curepto	-35.0959	-72.0209
+empedrado	-35.5899	-72.2763
+maule	-35.4232	-71.6485
+pelarco	-35.3839	-71.4472
+pencahue	-35.3961	-71.7975
+río claro	-35.2808	-71.2599
+san clemente	-35.5365	-71.4894
+san rafael	-35.3075	-71.5235
+talca	-35.4232	-71.6485
+arauco	-37.2458	-73.3167
+cañete	-37.8058	-73.392
+contulmo	-38.0149	-73.2293
+curanilahue	-37.4762	-73.3421
+lebu	-37.6097	-73.6483
+los álamos	-37.6261	-73.4623
+tirúa	-38.3419	-73.4955
+alto biobío	-38.05	-71.3167
+antuco	-37.3313	-71.6764
+cabrero	-37.0333	-72.4
+laja	-37.2714	-72.7195
+los ángeles	-37.4629	-72.3612
+mulchén	-37.7179	-72.2374
+nacimiento	-37.5059	-72.6738
+negrete	-37.5863	-72.5321
+quilaco	-37.6876	-71.9987
+quilleco	-37.4742	-71.9836
+san rosendo	-37.262	-72.7231
+santa bárbara	-37.6667	-72.0167
+tucapel	-37.2923	-71.9512
+yumbel	-37.0833	-72.5667
+chiguayante	-36.9532	-73.0174
+concepción	-36.8201	-73.0444
+coronel	-37.0341	-73.1405
+florida	-36.8238	-72.6685
+hualpén	-36.7867	-73.11
+hualqui	-36.9738	-72.9368
+lota	-37.0921	-73.1546
+penco	-36.7333	-72.9833
+san pedro de la paz	-36.8305	-73.1167
+santa juana	-37.175	-72.9457
+talcahuano	-36.7248	-73.117
+tomé	-36.6132	-72.9589
+bulnes	-36.7422	-72.3018
+chillán	-36.6063	-72.1023
+chillán viejo	-36.6291	-72.1398
+cobquecura	-36.1386	-72.7945
+coelemu	-36.4833	-72.7
+coihueco	-36.6291	-71.8327
+el carmen	-36.9	-72.0333
+ninhue	-36.4	-72.4
+ñiquen	-36.3	-71.9
+pemuco	-36.9667	-72.1
+pinto	-36.7	-71.8941
+portezuelo	-36.5268	-72.4282
+quillón	-36.7339	-72.4602
+quirihue	-36.2833	-72.5333
+ránquil	-36.6526	-72.5973
+san carlos	-36.4262	-71.9708
+san fabián	-36.55	-71.55
+san ignacio	-36.5333	-72.4333
+san nicolás	-36.5	-72.2167
+treguaco	-36.4211	-72.6606
+yungay	-37.122	-72.0132
+carahue	-38.7089	-73.1679
+cholchol	-38.6006	-72.8411
+cunco	-38.9321	-72.028
+curarrehue	-39.3616	-71.589
+freire	-38.9573	-72.6269
+galvarino	-38.4089	-72.7821
+gorbea	-39.1006	-72.6764
+lautaro	-38.5084	-72.4541
+loncoche	-39.3681	-72.6315
+melipeuco	-38.8523	-71.6929
+nueva imperial	-38.7445	-72.9482
+padre las casas	-38.7667	-72.6
+perquenco	-38.4161	-72.3756
+pitrufquén	-38.9833	-72.6417
+pucón	-39.2723	-71.9776
+saavedra	-38.7833	-73.4
+temuco	-38.7359	-72.5904
+teodoro schmidt	-38.9992	-73.0943
+toltén	-39.2043	-73.2077
+vilcún	-38.6677	-72.2244
+villarrica	-39.282	-72.2308
+angol	-37.8061	-72.7038
+collipulli	-37.9583	-72.4321
+curacautín	-38.4402	-71.8877
+ercilla	-38.0553	-72.3833
+lonquimay	-38.4542	-71.3698
+los sauces	-37.9791	-72.8345
+lumaco	-38.164	-72.9032
+purén	-38.0327	-73.0718
+renaico	-37.6738	-72.5892
+traiguén	-38.25	-72.6833
+victoria	-38.2327	-72.3515
+corral	-39.8886	-73.4316
+lanco	-39.451	-72.7796
+los lagos	-39.8625	-72.8186
+máfil	-39.6649	-72.9572
+mariquina	-39.5403	-72.9657
+paillaco	-40.0684	-72.8748
+panguipulli	-39.6436	-72.3365
+valdivia	-39.8174	-73.2425
+futrono	-40.1245	-72.3809
+la unión	-40.2953	-73.0793
+lago ranco	-40.3212	-72.4822
+río bueno	-40.3313	-72.9485
+ancud	-41.8675	-73.8277
+castro	-42.4801	-73.7624
+chonchi	-42.6233	-73.7738
+curaco de vélez	-42.4405	-73.6037
+dalcahue	-42.3776	-73.6519
+puqueldón	-42.6014	-73.6715
+queilén	-42.6186	-73.78
+quemchi	-42.1428	-73.4743
+quellón	-43.1169	-73.6139
+quinchao	-42.5381	-73.4188
+calbuco	-41.772	-73.1327
+cochamó	-41.4923	-72.3084
+fresia	-41.15	-73.4163
+frutillar	-41.1167	-73.05
+llanquihue	-41.2606	-73.0078
+los muermos	-41.3994	-73.465
+maullín	-41.6148	-73.599
+puerto montt	-41.4689	-72.9411
+puerto varas	-41.3167	-72.9833
+osorno	-40.5762	-73.1149
+puero octay	-40.9768	-72.882
+purranque	-40.9084	-73.1661
+puyehue	-40.7686	-72.2364
+río negro	-40.7833	-73.2333
+san juan de la costa	-40.5167	-73.4
+san pablo	-40.4124	-73.0126
+chaitén	-42.9167	-72.7167
+futaleufú	-43.1833	-71.8667
+hualaihué	-42.0216	-72.6892
+palena	-43.6167	-71.8
+aisén	-45.4035	-72.6864
+cisnes	-44.75	-72.7
+guaitecas	-43.8833	-73.75
+cochrane	-47.2536	-72.573
+o'higgins	-48.4674	-72.5592
+tortel	-47.8015	-73.5359
+coihaique	-45.5712	-72.0683
+lago verde	-44.2385	-71.8511
+chile chico	-46.5409	-71.7223
+río ibáñez	-46.3	-71.9333
+antártica	-53.1417	-70.9063
+cabo de hornos	-55.0992	-69.2748
+laguna blanca	-52.25	-71.9167
+punta arenas	-53.1638	-70.9171
+río verde	-52.5847	-71.5137
+san gregorio	-52.5531	-70.4082
+porvenir	-53.2958	-70.3667
+primavera	-54.046	-68.5722
+timaukel	-54.2947	-69.1675
+natales	-51.7333	-72.5167
+torres del paine	-51.2592	-72.345
