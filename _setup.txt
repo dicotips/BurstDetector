@@ -1,0 +1,77 @@
+listener_src_name : twitter4j
+AuthConsumerKey : 
+AuthConsumerSecret : 
+AuthAccessToken : 
+AuthAccessTokenSecret : 
+AuthConsumerKey : 
+AuthConsumerSecret : 
+AuthAccessToken : 
+AuthAccessTokenSecret : 
+StreamBaseURL : https://stream.twitter.com/1.1/
+RequestTokenURL : https://api.twitter.com/oauth/request_token
+AuthorizationURL : https://api.twitter.com/oauth/authorize
+AccessTokenURL : https://api.twitter.com/oauth/access_token
+AuthenticationURL : https://api.twitter.com/oauth/authenticate
+country_detect_path : <full path to the countries_languages.txt file>
+stats_serialize_store : true
+stats_serialize_win_freq : 6
+stats_serialize_path : <full path to the stats file _stats_hashtables.ser>
+events_serialize_store : true
+events_serialize_path : <full path to the stats file _events.ser>
+prunning_min_windows = 30
+prunning_threshold = 0.03
+blacklist_time_refresh : 3600
+mysql_server_ip : <msql serve server ip>
+mysql_server_port : 3306
+mysql_server_database : <database name>
+mysql_user : <database user>
+mysql_password : <database password>
+mysql_src_server_ip : <mysql server name with the tweets as data source when already downloaded tweets >
+mysql_src_server_port : 3306
+mysql_src_server_database : <database source name to use already downloaded tweets >
+mysql_src_user : <database source user>
+mysql_src_password : <database source user's password>
+mysql_src_delay_seconds : 100
+mysql_src_generate_entities_from_text : false
+mysql_src_load_complete_batch : true
+mysql_src_date_list : <list of dates when using source databaes:  i.e.: 20160608,20160609>
+emerging_event_detection : true
+emerging_event_description : true
+store_ngrams : false
+store_rt : true
+store_qt : true
+repeated_user : true
+repeated_user_time : 300
+repeated_user_debug_time : 300
+event_zscore_minimum : 1.5
+event_var_freq_minimum : 3
+event_n_detectors : 1
+event_window_size : 300
+event_window_shift : 0
+describer_freq_maximum : 150
+describer_freq_minimum : 1
+describer_algorithm : apriori
+describer_algorithm : fpgrowth
+describer_algorithm : bursty
+describer_bursty_n : 30
+describer_last_start_kill_time : 600
+track_signal_bursty_keywords : true
+track_signal_keywords : true
+track_signal_geo_user : true
+track_signal_geo_text : true
+track_signal_geo_location : true
+track_signal_sentiment : true
+track_signal_language : true
+stanford_nlp_languages : NONE
+event_languages : ES,EN,DE,PT,IT,FR,JA,RU,ALL
+tweet_languages : DE,ES,EN,PT,IT,FR,JA,HI,ZH,KY,KK,FA,GA,EL,TL,ID,RU,ALL
+research_sample : false
+keywords_name : earthquake
+keywords : earthquake,temblando,sismo,quake,temblor,temblando,gempa,lindol,tremblement,erdbeben,deprem,σεισμός,землетрясение,seismós,séisme,زمین‌لرزه,زلزله,zelzele,terremoto,scossa,地震,海啸,津波,地震,भूकंप,भुकंप
+boundingBox_SW_Long : -76.8507235
+boundingBox_SW_Lat : -55.1671700
+boundingBox_NE_Long : -66.6756380
+boundingBox_NE_Lat : -17.5227345
+StopWords_Data : <path to the 'stopwords' folder>
+ss_path : <path to the SentiStrength folder>
+SentiStreight_Data : {{EN,SentiStrength_Data_EN/},{ES,SentiStrength_Data_ES_CL/}}
